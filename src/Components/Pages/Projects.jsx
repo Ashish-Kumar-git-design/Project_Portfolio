@@ -14,7 +14,7 @@ const Projects = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow[0_2px_8px_rgba(59,130,246,0.1)}] transition-all">
-              <h3 className="text-xl font-bold mb-2">Cloud Platform</h3>
+              <h3 className="text-xl font-bold mb-2">Portfolio</h3>
               <p className="text-gray-400 mb-4">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Repellat harum non atque temporibus excepturi tenetur aliquam
@@ -41,7 +41,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow[0_2px_8px_rgba(59,130,246,0.1)}] transition-all">
-              <h3 className="text-xl font-bold mb-2">Hotel Management</h3>
+              <h3 className="text-xl font-bold mb-2">Hospital Management</h3>
               <p className="text-gray-400 mb-4">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Repellat harum non atque temporibus excepturi tenetur aliquam
@@ -68,7 +68,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow[0_2px_8px_rgba(59,130,246,0.1)}] transition-all">
-              <h3 className="text-xl font-bold mb-2">AU CHAT</h3>
+              <h3 className="text-xl font-bold mb-2">Calculator</h3>
               <p className="text-gray-400 mb-4">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Repellat harum non atque temporibus excepturi tenetur aliquam
@@ -97,7 +97,7 @@ const Projects = () => {
               </div>
             </div>
             <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-blue-500/30 hover:shadow[0_2px_8px_rgba(59,130,246,0.1)}] transition-all">
-              <h3 className="text-xl font-bold mb-2">SABKA MART</h3>
+              <h3 className="text-xl font-bold mb-2">Myntra Clone</h3>
               <p className="text-gray-400 mb-4">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                 Repellat harum non atque temporibus excepturi tenetur aliquam
